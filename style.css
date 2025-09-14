@@ -1,0 +1,16 @@
+body{
+	text-align: center;
+}
+button{
+	background-color:darkmagenta;
+	color: white;
+	font-size: 18px;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 10px;
+	cursor: pointer;
+    transition: .5sec;
+}
+button:hover{
+	background-color:magenta;
+}
